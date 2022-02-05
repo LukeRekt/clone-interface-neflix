@@ -1,4 +1,4 @@
-const filme = document.getElementById("teste");
+const filme = document.getElementsByClassName("owl-carousel owl-theme")[0];
 $('.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
@@ -41,7 +41,7 @@ fetch(`../db.json`, {
                 </div>
                 
             </div>
-            <img class="box-filme" src="img/mini1.jpg" alt="">
+            <img class="box-filme" src="${dados[i]['imagem']}" alt="">
         </div>`
         }
         

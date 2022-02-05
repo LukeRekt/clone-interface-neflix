@@ -1,8 +1,9 @@
 [
     {
 
-        "filme": "filme1",
-        "descricao": "desc1"
+        "filme": "The Umbrella Academy",
+        "descricao": "Umbrella Academy acompanha os membros de uma família disfuncional de super-heróis enquanto eles trabalham juntos para resolver a misteriosa morte de seu pai e lidam com suas personalidades e habilidades divergentes. ",
+        "imagem": "./img/mini1.jpg"
 
     }
 
